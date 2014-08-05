@@ -2,7 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/andylee/Downloads/mongo-java-driver-2.12.0-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/andylee/Downloads/mongo-java-driver-2.12.0.jar"/>
+	<classpathentry kind="lib" path="/tools/stanford-segmenter-2014-06-16/seg.jar"/>
+	<classpathentry kind="lib" path="/tools/stanford-segmenter-2014-06-16/stanford-segmenter-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/tools/stanford-segmenter-2014-06-16/stanford-segmenter-3.4-sources.jar"/>
+	<classpathentry kind="lib" path="/tools/stanford-parser-3.3.1/stanford-parser-3.3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/tools/stanford-parser-3.3.1/stanford-parser-3.3.1-models.jar"/>
+	<classpathentry kind="lib" path="/tools/stanford-parser-3.3.1/stanford-parser-3.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="/tools/stanford-parser-3.3.1/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="/tools/JavaChineseConvertor/jcc-bate-0.7.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
